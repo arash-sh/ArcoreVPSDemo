@@ -20,8 +20,8 @@ public class VPSManager : MonoBehaviour
 
     private AREarthManager EarthManager;
     private ARAnchorManager AnchorManager;
-    private bool GeoEnabled = false;
     private bool MapInitialized = false;
+    private bool GeoEnabled = false;
     private double latitude = 34.056955;
     private double longitude = -117.196068;
     private double altitude = 400;
